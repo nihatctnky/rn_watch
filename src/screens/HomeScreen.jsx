@@ -42,7 +42,7 @@ const HomeScreen = () => {
       {/* search */}
       <View style={styles.mainInputContainer}>
         <View style={styles.inputWrapper}>
-          <Image style={styles.logo} source={require('../assets/Search.png')} />
+          <Image style={styles.logo} source={require('../../src/assets/images/Search.png')} />
           <TextInput
             style={styles.textInput}
             placeholderTextColor={Colors.placeholderText}
@@ -52,7 +52,7 @@ const HomeScreen = () => {
 
         {/* category icon */}
         <View style={styles.categoryContainer}>
-          <Image style={styles.logo} source={require('../assets/Iconly.png')} />
+          <Image style={styles.logo} source={require('../../src/assets/images/Category.png')} />
         </View>
       </View>
       <Category 
