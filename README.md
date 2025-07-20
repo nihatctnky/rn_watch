@@ -7,3 +7,4 @@ Uygulamada kullanılan SVG destekli ikonlar ve gradient arka planlar sayesinde g
 Performans ve hız öncelikli olarak geliştirilmiş bu uygulama, mobil cihazların kaynaklarını verimli kullanarak takılma veya donma olmadan akıcı bir kullanım sağlar.
 
 ## Ekran Gıf
+![Ekran Kaydı 2025-07-20 03 08 22](https://github.com/user-attachments/assets/74813729-5aa6-4b5c-aedd-b6a78cec5f1f)
